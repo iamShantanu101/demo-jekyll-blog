@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "My Demo Site"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Shantanu Deshpande"
 description              : "An amazing website."
 url                      : "https://iamShantanu101.github.io"
 baseurl                  : # "/blog"
