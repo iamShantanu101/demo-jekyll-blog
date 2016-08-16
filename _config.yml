@@ -14,7 +14,7 @@ description              : "An amazing website."
 url                      : "https://iamShantanu101.github.io"
 baseurl                  : # "/blog"
 repository               : "iamShantanu101/minimal-mistakes"
-teaser                   : "abstract-11.jpg"
+teaser                   : "/images/abstract-11.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
