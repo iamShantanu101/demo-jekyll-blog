@@ -7,9 +7,9 @@ author_profile: false
   {% include sidebar.html %}
 
   <div class="archive">
-    {% picture /images/abstract-11.jpg alt="An unsual picture" %}
     <h1 class="page__title">{{ page.title }}</h1>
     {% include base_path %}
+    {% picture abstract-11.jpg alt="An unsual picture" %}
     {% for post in page.posts %}
       {% include archive-single.html %}
     {% endfor %}
